@@ -1,0 +1,2 @@
+# SASS
+ The main purpose of this project is to develop the methodology to detect and predict driver drowsiness at the early stages using physical and physiological variables. A feasibility test is conducted to evaluate the accuracy and performance of the proposed methodology. Finally, the android application is prepared end-to-end for the user and applied for data collection in the future research experiments.
